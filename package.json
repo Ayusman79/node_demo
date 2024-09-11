@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
-    "git_auto_commit_message": "^1.0.4"
+    "git_auto_commit_message": "^1.0.4",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
   }
 }
